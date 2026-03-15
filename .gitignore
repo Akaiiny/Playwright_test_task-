@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Poetry
+.env
+.poetry/
+
+# IDE
+.vscode/
+.idea/
+
+# Playwright
+playwright-report/
+*.zip
+test-results/
+
+# Allure
+allure-results/
+allure-report/
+
+# OS
+.DS_Store
